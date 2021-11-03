@@ -7,10 +7,11 @@ I may implement different DS's and Algorithms using a different programming lang
 
 ## Data Structures
 
-Data Structure | Status | Prog. Language
----|---|---
-:one: Linked List| :heavy_check_mark: Implemented | C
-:two: Doubly Linked List | :heavy_check_mark: Implemented | C
+Data Structure | Status | Prog. Language | Nice to Have
+---|---|---|---
+:one: Linked List| :heavy_check_mark: Implemented | C |
+:two: Doubly Linked List | :heavy_check_mark: Implemented | C |
+:three: Hash Table | :heavy_check_mark: Implemented | C | Quadratic Probing, Double Hashing
 
 ## Algorithms
 
