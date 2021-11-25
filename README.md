@@ -13,6 +13,7 @@ Data Structure | Status | Prog. Language | Nice to Have
 :two: Doubly Linked List | :heavy_check_mark: Implemented | C |
 :three: Hash Table | :heavy_check_mark: Implemented | C | Quadratic Probing, Double Hashing
 :four: Stack | :heavy_check_mark: Implemented | C, Python | 
+:five: Queue | :heavy_check_mark: Implemented | C | Array Impl.
 
 ## Algorithms
 
