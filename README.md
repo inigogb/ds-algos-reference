@@ -14,6 +14,7 @@ Data Structure | Status | Prog. Language | Nice to Have
 :three: Hash Table | :heavy_check_mark: Implemented | C | Quadratic Probing, Double Hashing
 :four: Stack | :heavy_check_mark: Implemented | C, Python | 
 :five: Queue | :heavy_check_mark: Implemented | C | Array Impl.
+:six: Tree | :heavy_check_mark: Implemented | C |
 
 ## Algorithms
 
