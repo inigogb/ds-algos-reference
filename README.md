@@ -15,6 +15,7 @@ Data Structure | Status | Prog. Language | Nice to Have
 :four: Stack | :heavy_check_mark: Implemented | C, Python | 
 :five: Queue | :heavy_check_mark: Implemented | C | Array Impl.
 :six: Tree | :heavy_check_mark: Implemented | C |
+:seven: Circular Queue | :heavy_check_mark: Implemented | C |
 
 ## Algorithms
 
